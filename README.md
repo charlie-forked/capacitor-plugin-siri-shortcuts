@@ -2,15 +2,14 @@
 ![xcode](https://shields.io/badge/Xcode-%3E%3D10.0-informational)
 ![npm](https://shields.io/npm/dw/capacitor-plugin-siri-shorts)
 ![GitHub](https://shields.io/github/license/timozacherl/capacitor-plugin-siri-shortcuts)
-![npm](https://shields.io/npm/v/capacitor-plugin-siri-shorts)
+![npm](https://shields.io/npm/v/@charliecat/capacitor-plugin-siri-shorts)
 ![capacitor](https://shields.io/badge/Capacitor-%3E%3D3.0.0-informational)
 
 # Capacitor Plugin for Siri Shortcuts
 
-## 💥 Breaking Changes
+## Disclaimer
 
-Version 2 of this Plugin only works with Capacitor 3 or newer.
-For Capacitor 2 install `npm i capacitor-plugin-siri-shorts@1.0.3`.
+this is a fork of [`capacitor-plugin-siri-shorts`](https://www.npmjs.com/package/capacitor-plugin-siri-shorts) running on Capacitor.js v5
 
 ## 🔧 Setup
 
